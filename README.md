@@ -1,6 +1,6 @@
 # Student-Grade
 
-You are given a Student class. (Copy it into Eclipse) A Student has a name and an ArrayList of grades (Doubles) as instance variables.
+A Student has a name and an ArrayList of grades (Doubles) as instance variables.
 
 Write a class named Classroom which manages Student objects.
 
